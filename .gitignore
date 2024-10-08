@@ -18,7 +18,7 @@ Thumbs.db
 *.swo
 
 # Log files
-
+logs
 *.log
 
 # Optional npm cache directory
